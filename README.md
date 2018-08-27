@@ -24,3 +24,8 @@ LICENSE
 
 Python 3
 
+* Yêu cầu :
+
+Root
+Aircrack-ng
+Cr
